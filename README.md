@@ -63,8 +63,7 @@ Solana GPT Meme Coin Trader is a cutting-edge trading bot powered by GPT for ana
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/b43fb6b9-01ba-4d86-9e4d-48d36777d867))
-
+![Dashboard Preview](https://github.com/user-attachments/assets/b43fb6b9-01ba-4d86-9e4d-48d36777d867)
 ---
 
 ## 📚 Documentation
