@@ -36,7 +36,7 @@ Solana GPT Meme Coin Trader is a cutting-edge trading bot powered by GPT for ana
    ```
 3. Install dependencies:
    ```bash
-   SolTrader.exe
+   SolTrader.exe --setup
    ```
 4. Configure environment variables:
    Create a `.env` file and set the required keys:
