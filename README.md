@@ -1,6 +1,6 @@
 # Solana GPT Meme Coin Trader
 
-![Banner]([https://github.com/user-attachments/assets/f9a72ff9-8727-4ee5-a53e-ec90f56a5ea1](https://github.com/user-attachments/assets/8124285f-e715-4181-a330-cb82089b9ed1))
+![Banner](https://github.com/user-attachments/assets/b43fb6b9-01ba-4d86-9e4d-48d36777d867)
 
 ## 🚀 Overview
 Solana GPT Meme Coin Trader is a cutting-edge trading bot powered by GPT for analyzing, predicting, and trading meme coins on the Solana blockchain. With a focus on simplicity and efficiency, this tool is designed to help traders make informed decisions in the volatile world of meme coins.
